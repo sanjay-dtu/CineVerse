@@ -1,7 +1,9 @@
 {
-  "name": "imdb-fe",
-  "version": "0.1.0",
+  "name": "cineverse",
+  "version": "1.0.0",
   "private": true,
+  "description": "CineVerse - A sleek movie explorer built with React and OMDb API.",
+  "author": "Sanjay Kumar",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
