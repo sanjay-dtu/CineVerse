@@ -1,12 +1,19 @@
+# CineVerse
 
-CineVerse 
-CineVerse is a React-based web app that allows users to browse and search for movies using the OMDb API.
-Features
-- Browse popular, top-rated, and upcoming movies
+CineVerse is a React-based web application that allows users to search and explore movies using the OMDb API. It features a clean, responsive interface and provides essential movie details based on user input.
+
+## Features
+
 - Search movies by title
-- Clean and responsive UI
-Tech Stack
+- Display movie details such as title, year, rating, and poster
+- Responsive layout suitable for both desktop and mobile
+
+## Tech Stack
+
 - React.js
 - JavaScript
-- OMDb API
 - CSS
+- OMDb API
+
+
+
